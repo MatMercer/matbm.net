@@ -1,0 +1,9 @@
+name = "Mateus Mercer"
+avatar = "images/profile.jpeg" # Avatar image. Default to "images/profile.webp".
+bio = "Developer"
+company = "IBM"
+location = "Brazil"
+# about = "https://domain.tld" # The external about page. The internal about page will be used if not set.
+
+[params]
+  layout = "compact"

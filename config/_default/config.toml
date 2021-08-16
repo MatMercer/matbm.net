@@ -1,0 +1,38 @@
+title = "MatMercer's Blog"
+baseURL = 'http://example.org/'
+theme = 'bootstrap'
+copyright = "Copyright © Mateus Mercer. All Rights Reserved."
+
+# Multilingual mode
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true # If you use only one language comment this option
+
+# Pagination
+paginate = 5
+# paginatePath = "page"
+
+# Disqus
+disqusShortname = "mateus_mercer"
+
+# Google analytics
+# googleAnalytics = "UA-123-45"
+
+enableRobotsTXT = true
+
+enableEmoji = true
+
+# hasCJKLanguage = true # Turn on it if your content contains Chinese/Japanese/Korean Languages.
+
+pygmentsUseClasses = true
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
