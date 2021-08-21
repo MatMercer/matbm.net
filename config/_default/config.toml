@@ -1,7 +1,7 @@
 title = "MatMercer's Blog"
 baseURL = 'http://example.org/'
 theme = 'bootstrap'
-copyright = "Copyright © Mateus Mercer. All Rights Reserved."
+copyright = "Copyright © Mateus Mercer. All rights reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
