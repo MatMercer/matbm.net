@@ -56,7 +56,7 @@ titleCase = true # Capitalized title.
   lineNos = false # true/false represents that show/hide the line numbers by default.
 
 [post]
-  # excerpt = "description"
+  excerpt = "description"
   # excerptMaxLength = 120
 
 [archive]

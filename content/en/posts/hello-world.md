@@ -2,7 +2,7 @@
 author: "Mateus Mercer"
 title: "Hello World!"
 date: 2021-09-01T22:23:34-03:00
-description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description: "Hello World! And welcome to my blog."
 draft: true
 images: [
 "images/2021-09/smtp-hello.png"
