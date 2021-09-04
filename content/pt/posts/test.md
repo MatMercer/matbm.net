@@ -12,9 +12,6 @@ tags = [
 "CSS",
 "HTML",
 ]
-series = [
-"Manual"
-]
 aliases = ["migrate-from-jekyl"]
 images = [
 "images/markdown.png"
