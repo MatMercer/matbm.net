@@ -7,6 +7,11 @@ draft: true
 images: [
 "images/2021-09/smtp-hello.png"
 ]
+tags: [
+"Hello World",
+"Introduction",
+"Hugo"
+]
 ---
 
 Hello World! For a developer, this is such a common thing to say when starting a new project.

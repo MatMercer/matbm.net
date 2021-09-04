@@ -7,6 +7,11 @@ draft: true
 images: [
 "images/2021-09/smtp-hello.png"
 ]
+tags: [
+"Olá Mundo",
+"Introdução",
+"Hugo"
+]
 ---
 
 Olá Mundo! Para um desenvolvedor, isso é algo tão comum de se dizer quando um novo projeto é iniciado.
