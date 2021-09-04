@@ -2,7 +2,7 @@
 author: "Mateus Mercer"
 title: "Olá Mundo!"
 date: 2021-09-01T22:23:34-03:00
-description: "Olá Mundo! E seja bem vindo ao meu blog."
+description: "Olá Mundo! E seja bem-vindo ao meu blog."
 draft: true
 images: [
 "images/2021-09/smtp-hello.png"
