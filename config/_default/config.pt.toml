@@ -1,2 +1,2 @@
 title = "Parallel Cat Blog"
-copyright = "Copyright © Mateus Mercer. Todos os direitos reservados."
+copyright = '<a href="about" target="_blank">Mateus Mercer - {year}</a> <br>🌎<br> Tema original por <a href="https://github.com/razonyang/hugo-theme-bootstrap" target="_blank">razonyang</a>'
