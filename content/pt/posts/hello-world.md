@@ -16,7 +16,7 @@ tags: [
 
 Olá Mundo! Para um desenvolvedor, isso é algo tão comum de se dizer quando um novo projeto é iniciado.
 
-Mas são só humanos que dizem olá, na verdade, o protocolo SMTP envia `HELO`[^1] ao iniciar um envio de e-mail.
+Mas são só humanos que dizem olá, na verdade, no protocolo SMTP, é enviado `HELO`[^1] ao iniciar um envio de e-mail.
 Então você pode imaginar que milhões, se não bilhões de "Olás" são enviados todos os dias por máquinas.
 
 [^1]: HELO, ou "olá" é enviado no protocolo SMTP ao iniciar um envio de e-mail [Protocolo de Transferência de Correio Simples](https://pt.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)

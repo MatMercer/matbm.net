@@ -16,7 +16,7 @@ tags: [
 
 Hello World! For a developer, this is such a common thing to say when starting a new project.
 
-Not only humans say hello, actually SMTP starts an e-mail exchange by sending `HELO`[^1].
+Not only humans say hello, actually in SMTP protocol, it starts an e-mail exchange by sending `HELO`[^1].
 So you can imagine that millions, if not billions of "Hello's" are sent everyday by machines.
 
 [^1]: HELO is sent in the SMTP protocol to start a e-mail exchange [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
