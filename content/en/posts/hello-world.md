@@ -1,11 +1,11 @@
 ---
 author: "Mateus Mercer"
 title: "Hello World!"
-date: 2021-09-01T22:23:34-03:00
+date: 2021-09-12T18:45:34-03:00
 description: "Hello World! And welcome to my blog."
-draft: true
+draft: false
 images: [
-"images/2021-09/smtp-hello.png"
+"images/2021-09/hello-world.jpg"
 ]
 tags: [
 "Hello World",
@@ -13,6 +13,8 @@ tags: [
 "Hugo"
 ]
 ---
+
+![A world made of computer chips](/images/2021-09/hello-world.jpg#center "A world made of computer chips. Source: [Internet Archive <3](https://archive.org/details/80_Microcomputing_Issue_23_1981-11_1001001_US/mode/2up)")
 
 Hello World! For a developer, this is such a common thing to say when starting a new project.
 
@@ -40,7 +42,7 @@ Some of the topics I want to cover:
 
 You probably noticed that the logo is a cat, a weird parallel cat, well, it's my cat:
 
-![Pinky](/images/2021-09/pinky.png#center)
+![A cat with its face mirrored in a TV screen](/images/2021-09/pinky.png#center "A cat with its face mirrored in a TV screen")
 
 ## The technology stack 
 

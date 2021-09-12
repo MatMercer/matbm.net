@@ -1,11 +1,11 @@
 ---
 author: "Mateus Mercer"
 title: "Olá Mundo!"
-date: 2021-09-01T22:23:34-03:00
+date: 2021-09-12T18:45:34-03:00
 description: "Olá Mundo! E seja bem-vindo ao meu blog."
-draft: true
+draft: false
 images: [
-"images/2021-09/smtp-hello.png"
+"images/2021-09/hello-world.jpg"
 ]
 tags: [
 "Olá Mundo",
@@ -13,6 +13,8 @@ tags: [
 "Hugo"
 ]
 ---
+
+![Um mundo feito de chips de computador](/images/2021-09/hello-world.jpg#center "Um mundo feito de chips. Fonte: [Internet Archive <3](https://archive.org/details/80_Microcomputing_Issue_23_1981-11_1001001_US/mode/2up)")
 
 Olá Mundo! Para um desenvolvedor, isso é algo tão comum de se dizer quando um novo projeto é iniciado.
 
@@ -40,7 +42,7 @@ Esses são alguns dos tópicos que quero escrever:
 
 Você provavelmente notou a logo de um gato, um estranho gato paralelo, bem, é meu gato:
 
-![Um gato com seu rosto refletido na tela de uma televisão](/images/2021-09/pinky.png#center "Pinky")
+![Um gato com seu rosto refletido na tela de uma televisão](/images/2021-09/pinky.png#center "Um gato com seu rosto refletido na tela de uma televisão")
 
 ## Tecnologias utilizadas
 
