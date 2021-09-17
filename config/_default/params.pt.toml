@@ -1,5 +1,5 @@
 dateFormat = "02/01/2006"
-description = "Um blog para discutir sobre assuntos diversos de tecnologia"
+description = "Um blog sobre programação, e outras coisas"
 keywords = "Tecnologia, Programação, Desenvolvimento, Fullstack"
 headerHeadLine = "Um blog sobre programação, e outras coisas"
 [archive]

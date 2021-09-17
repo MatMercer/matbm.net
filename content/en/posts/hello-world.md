@@ -2,7 +2,7 @@
 author: "Mateus Mercer"
 title: "Hello World!"
 date: 2021-09-12T18:45:34-03:00
-description: "Hello World! And welcome to my blog."
+description: "Hello World! And welcome to my blog. It's been a while since I wanted to create a blog. Well, today I started!"
 draft: false
 images: [
 "images/2021-09/hello-world.jpg"
