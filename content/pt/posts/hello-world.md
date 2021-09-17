@@ -1,6 +1,6 @@
 ---
 author: "Mateus Mercer"
-title: "Olá Mundo!"
+title: "Olá Mundo! E bem vindo(a) ao meu blog"
 date: 2021-09-12T18:45:34-03:00
 description: "Olá Mundo! E seja bem-vindo ao meu blog. Faz um bom tempo que eu queria começar um blog. Bem, hoje eu comecei!"
 draft: false
