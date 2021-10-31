@@ -1,7 +1,7 @@
 title = "Parallel Cat Blog"
 baseURL = 'http://example.org/'
 theme = 'bootstrap'
-copyright = '<a href="about" target="_blank">Mateus Mercer - {year}</a> <br>🌎<br> Original theme by <a href="https://github.com/razonyang/hugo-theme-bootstrap" target="_blank">razonyang</a>'
+copyright = 'Mateus Mercer - {year}<br>🌎<br> Original theme by <a href="https://github.com/razonyang/hugo-theme-bootstrap" target="_blank">razonyang</a>'
 
 # Multilingual mode
 defaultContentLanguage = "en"
