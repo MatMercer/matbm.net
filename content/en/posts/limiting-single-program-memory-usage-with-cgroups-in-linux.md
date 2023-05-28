@@ -2,10 +2,22 @@
 title: "Limiting Single Program Memory Usage With Cgroups in Linux"
 date: 2023-05-28T04:16:46-03:00
 draft: false
+description: "How to limit memory usage for a program using cgroups and why ulimit isn't good for it."
+draft: false
+images: [
+"images/2023-05/computer-eating-memory.jpg"
+]
+tags: [
+    "CGroup",
+    "Linux",
+    "Programming",
+]
 ---
+![A computer eating a floppy disk](/images/2023-05/computer-eating-memory.jpg#center "A hungry computer eating a floppy disk. Source: [Internet Archive, ROM magazine, 1977](https://archive.org/details/197708ROMV1I02/), illustrated by [Robert Grossman](https://www.robertgrossman.com/).")
+
 # Trying to do it with `ulimit`
 
-While trying to solve the 07 challenge from Os Programadores (and validating other's solutions), I had to check if my (and other's) program used less than 512 megabytes of memory.
+While trying to solve the [07 challenge from Os Programadores](https://osprogramadores.com/desafios/d07/) (and validating other's solutions), I had to check if my (and other's) program used less than 512 megabytes of memory.
 
 OK, the instructions page for the challenge told me to use `ulimit -v 524288` to test it.
 
