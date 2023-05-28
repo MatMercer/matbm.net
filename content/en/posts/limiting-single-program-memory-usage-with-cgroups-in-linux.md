@@ -15,7 +15,7 @@ tags: [
 ---
 ![A computer eating a floppy disk](/images/2023-05/computer-eating-memory.jpg#center "A hungry computer eating a floppy disk. Source: [Internet Archive, ROM magazine, 1977](https://archive.org/details/197708ROMV1I02/), illustrated by [Robert Grossman](https://www.robertgrossman.com/).")
 
-# Trying to do it with `ulimit`
+## Trying to do it with `ulimit`
 
 While trying to solve the [07 challenge from Os Programadores](https://osprogramadores.com/desafios/d07/) (and validating other's solutions), I had to check if my (and other's) program used less than 512 megabytes of memory.
 
@@ -90,7 +90,7 @@ The Go community has a project that deals with that so you don't need to patch c
 
 I didn't researched if the NodeJS community has something similar (sorry NodeJS developers) but it probably has, since embedded development is everywhere.
 
-# Limiting real memory usage with cgroups
+## Limiting real memory usage with cgroups
 
 The Linux kernel has something called [Control Groups](https://man7.org/linux/man-pages/man7/cgroups.7.html):
 
@@ -203,7 +203,7 @@ Killed
 
 Nice! We successfully put the program on a diet.
 
-# Conclusion
+## Conclusion
 
 Control Groups is a versatile tool and I will use it from now on when in need to test if a program is using too much memory. This practical guide is just a small part of Control Groups and you can do much more with it, including limiting CPU or network usage.
 
