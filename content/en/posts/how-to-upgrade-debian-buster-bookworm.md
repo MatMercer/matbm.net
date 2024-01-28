@@ -1,5 +1,5 @@
 ---
-title: "How to upgrade Debian 10 Buster to Debian 11 Bookworm"
+title: "How to upgrade Debian 10 Buster to Debian 12 Bookworm"
 date: 2024-01-28T02:00:05-03:00
 images: [
   "images/2024-01/software-maintenance-crop.jpg"

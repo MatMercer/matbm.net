@@ -1,5 +1,5 @@
 ---
-title: "Como atualizar Debian 10 Buster para Debian 11 Bookworm"
+title: "Como atualizar Debian 10 Buster para Debian 12 Bookworm"
 date: 2024-01-28T02:00:05-03:00
 images: [
   "images/2024-01/software-maintenance-crop.jpg"
@@ -10,6 +10,7 @@ tags: [
   "Programação",
 ]
 translationKey: debian-10-to-12
+slug: como-atualizar-debian-buster-bookworm
 ---
 
 ![Uma referência a um monitor de coração em preto e vermelho](/images/2024-01/software-maintenance-crop.jpg#center "Uma referência a um monitor de coração em preto e vermelho. Fonte: [Internet Archive, Software maintenance and computers, 1990](https://archive.org/details/softwaremaintena0000unse_j8i4).")
