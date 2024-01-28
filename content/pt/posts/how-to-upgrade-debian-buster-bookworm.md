@@ -9,6 +9,8 @@ tags: [
   "Linux",
   "Programação",
 ]
+description: "Neste guia discuto como atualizar o Debian 10 para o 12."
+keywords: "Debian Buster Bullseye Bookworm Linux Tutorial HowTo Guide"
 translationKey: debian-10-to-12
 slug: como-atualizar-debian-buster-bookworm
 ---
