@@ -14,7 +14,7 @@ keywords: "Debian Buster Bullseye Bookworm Linux Tutorial HowTo Guide"
 translationKey: debian-10-to-12
 ---
 
-![A reference to heart rate monitor with black and red colors](/images/2024-01/software-maintenance-crop.jpg#center "A reference to hearth rate monitor with black and red colors. Source: [Internet Archive, Software maintenance and computers, 1990](https://archive.org/details/softwaremaintena0000unse_j8i4).")
+![A reference to heart rate monitor with black and red colors](/images/2024-01/software-maintenance-crop.jpg#center "A reference to heart rate monitor with black and red colors. Source: [Internet Archive, Software maintenance and computers, 1990](https://archive.org/details/softwaremaintena0000unse_j8i4).")
 
 # Overview
 
