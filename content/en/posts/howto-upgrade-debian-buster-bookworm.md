@@ -1,15 +1,27 @@
 ---
-title: "Upgrade Debian From Buster to Bookworm"
+title: "How to upgrade Debian 10 Buster to Debian 11 Bookworm"
 date: 2024-01-28T02:00:05-03:00
+images: [
+  "images/2024-01/software-maintenance-crop.jpg"
+]
+tags: [
+  "Debian",
+  "Linux",
+  "Programming",
+]
 ---
 
+![A reference to hearth beat monitor with black and red colors](/images/2024-01/software-maintenance-crop.jpg#center "A reference to hearth beat monitor with black and red colors. Source: [Internet Archive, Software maintenance and computers, 1990](https://archive.org/details/softwaremaintena0000unse_j8i4).")
+
 # Overview
+
+It's not permitted to jump Debian releases, so we need to upgrade two times, from Debian 10, to 11, then 12.
 
 My server has 4 main apps:
 * [Moodle](https://moodle.org/)
 * [WordPress](https://wordpress.com/)
 * [MariaDB](https://mariadb.org/)
-* [NGINX](https://nginx.org/).
+* [NGINX](https://nginx.org/)
 
 To upgrade, it's extremely important to follow the official docs, I'm sharing my personal experience with the upgrade. So don't just go copy and paste the commands from this guide, read the docs first.
 
@@ -143,5 +155,9 @@ apt purge '~o'
 reboot
 ```
 
+# Conclusion
 
+Upgrading 2 major Debian versions was very easy. Approximately +1GB of disk space was used, and I didn't have to intervene in the installed applications.
+
+This entire process took me 2 hours.
 
