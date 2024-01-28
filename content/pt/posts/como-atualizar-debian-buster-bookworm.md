@@ -9,6 +9,7 @@ tags: [
   "Linux",
   "Programação",
 ]
+translationKey: debian-10-to-12
 ---
 
 ![Uma referência a um monitor de coração em preto e vermelho](/images/2024-01/software-maintenance-crop.jpg#center "Uma referência a um monitor de coração em preto e vermelho. Fonte: [Internet Archive, Software maintenance and computers, 1990](https://archive.org/details/softwaremaintena0000unse_j8i4).")
