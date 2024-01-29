@@ -1,6 +1,6 @@
 title = "Parallel Cat Blog"
 baseURL = 'http://example.org/'
-theme = 'bootstrap'
+theme = 'lifenwork'
 copyright = 'Mateus Mercer - {year}<br>🌎<br> Original theme by <a href="https://github.com/razonyang/hugo-theme-bootstrap" target="_blank">razonyang</a>'
 
 # Multilingual mode

@@ -1,3 +1,5 @@
+serve:
+	./hugo/hugo serve
 production:
 	hugo --minify
 clean:
