@@ -1,14 +1,19 @@
 HUGOMODULE=hugo-fork
 H=./hugo
 
-submodules:
-	git submodule update --init --remote
-
-build-hugo: submodules
-	cd ${HUGOMODULE}; go build; cp hugo ..;
-
-serve: build-hugo
+serve: hugo
 	${H} serve
+
+
+submodules:
+ifeq (,$(wildcard hugo-fork/LICENSE))
+	git submodule update --init --remote
+endif
+
+hugo: submodules
+ifeq (,$(wildcard hugo))
+	cd ${HUGOMODULE}; go build; cp hugo ..;
+endif
 
 production: clean
 	${H} --minify
