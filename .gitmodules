@@ -3,4 +3,5 @@
 	url = https://github.com/MatMercer/hugo-theme-bootstrap.git
 [submodule "hugo"]
 	path = hugo
-	url = https://github.com/gohugoio/hugo.git
+	url = https://github.com/MatMercer/hugo.git
+	branch = matbmpatches
